@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C4B4&center=true&vCenter=true&width=800&lines=Hi+I'm+Shiddiq+👋;Mid-Level+QA+Engineer;Manual+%26+Automation+Testing+Specialist;API+%7C+Web+%7C+Database+Validation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C4B4&center=true&vCenter=true&width=900&lines=Hi+I'm+Shiddiq+👋;Mid-Level+QA+Engineer;Manual+%26+Automation+Testing+Specialist;API+%7C+Web+%7C+Mobile+Testing" />
 </p>
 
 ---
@@ -8,12 +8,12 @@
 
 <p align="center">
 QA Engineer with 3+ years of experience in Manual & Automation Testing.<br>
-Focused on building reliable, scalable, and maintainable test solutions.
+Experienced in Web, API, and Mobile Testing with strong analytical and problem-solving skills.
 </p>
 
 <p align="center">
-⚠️ Previous GitHub account was lost.<br>
-This is my new and active account for ongoing automation projects.
+⚠️ My previous GitHub account was lost.<br>
+This is my new and active GitHub account for ongoing automation projects and frameworks.
 </p>
 
 ---
@@ -23,9 +23,10 @@ This is my new and active account for ongoing automation projects.
 ### 🔎 Manual Testing
 - Requirement Analysis  
 - Test Case Design & Execution  
-- Regression & Smoke Testing  
+- Regression, Smoke & Exploratory Testing  
 - UAT Support  
 - Bug Reporting & Documentation  
+- Root Cause Analysis  
 
 **Tools:** Jira | TFS | Bug Tracking Systems  
 
@@ -39,7 +40,12 @@ This is my new and active account for ongoing automation projects.
 - Katalon Studio  
 - UFT One  
 
-#### 🔌 API Testing
+#### 📱 Mobile Automation
+- Appium  
+- Katalon Mobile Testing  
+- UFT One (Mobile Support)  
+
+#### 🔌 API Automation
 - Postman  
 - Swagger  
 - REST API Automation  
@@ -50,7 +56,7 @@ This is my new and active account for ongoing automation projects.
 
 ---
 
-<h2 align="center">🗄 Database Skills</h2>
+<h2 align="center">🗄 Database & Backend Validation</h2>
 
 <p align="center">
 MySQL • SQL Server • PL/SQL • Data Validation • Query Analysis
@@ -78,12 +84,13 @@ MySQL • SQL Server • PL/SQL • Data Validation • Query Analysis
 
 ---
 
-<h2 align="center">🎯 Career Focus</h2>
+<h2 align="center">🎯 Professional Focus</h2>
 
 <p align="center">
 Building scalable automation frameworks <br>
-Improving test maintainability & CI/CD integration <br>
-Delivering high-quality software through structured testing
+Improving maintainability & reusability <br>
+Supporting CI/CD integration <br>
+Ensuring product quality across Web, API & Mobile platforms
 </p>
 
 ---
